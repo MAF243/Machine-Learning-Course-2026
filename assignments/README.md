@@ -45,12 +45,10 @@ Mahasiswa wajib mengikuti alur kerja (*workflow*) ini untuk setiap tugas minggua
 ### 💡 Tips:
 
 * **Sinkronisasi:** Sebelum mengerjakan tugas minggu berikutnya, pastikan Anda melakukan "Sync Fork" agar materi terbaru dari dosen masuk ke repositori Anda.
-* 
-**Kerapian:** Jangan menghapus file materi asli dari dosen; cukup tambahkan folder NIM Anda di dalam folder `assignments`.
+* **Kerapian:** Jangan menghapus file materi asli dari dosen; cukup tambahkan folder NIM Anda di dalam folder `assignments`.
 
 
-* 
-**Integrasi W&B:** Jangan lupa menyertakan link project W&B Anda di dalam laporan atau notebook agar dosen dapat meninjau grafik eksperimen Anda secara interaktif.
+* **Integrasi W&B:** Jangan lupa menyertakan link project W&B Anda di dalam laporan atau notebook agar dosen dapat meninjau grafik eksperimen Anda secara interaktif.
 
 
 
